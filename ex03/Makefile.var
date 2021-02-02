@@ -1,0 +1,22 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    Makefile.var                                       :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: lsuardi <lsuardi@student.42.fr>            +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2021/02/01 17:47:03 by lsuardi           #+#    #+#              #
+#    Updated: 2021/02/01 17:47:07 by lsuardi          ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+SRCDIR =	src
+INCDIR =	inc
+CLASS =		Instruction\
+			IncrementPointer\
+			DecrementPointer\
+			IncrementValue\
+			DecrementValue\
+			DisplayValue\
+			GetValue\
+			Iterate
